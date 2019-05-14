@@ -1,0 +1,10 @@
+<config>
+	<ip-address>127.0.0.1</ip-address>
+	<temp-max>10</temp-max>
+	<temp-min>4</temp-min>
+	<wind-max>15</wind-max>
+	<visible-min>8</visible-min>
+	<humi-max>0.9</humi-max>
+	<humi-min>0.7</humi-min>
+	<onetime>4</onetime>
+</config>
